@@ -1,5 +1,6 @@
 ### Hi there 👋 
  - [vue2 components lib](https://yushk.github.io/)
+ - vscode extension swagger generate to js by axios [swagger-generate-js](https://github.com/yushk/swagger-generate-ts)
 <!--
 **yushk/yushk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
